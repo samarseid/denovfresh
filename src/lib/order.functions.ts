@@ -4,7 +4,7 @@ import { z } from "zod";
 // --- SOZLAMALAR (TOKENLARNI SHU YERGA YOZING) ---
 const CONFIG = {
   ADMIN_BOT_TOKEN: "8684464820:AAHVFHvIaePwtJzjaVm4xYDsJs1bjQOO5zg", // BotFather'dan olingan token
-  ADMIN_CHAT_ID: "8365258936",           // Boya olingan ID (masalan: 12345678)
+  ADMIN_CHAT_ID: "6518975266",           // Boya olingan ID (masalan: 12345678)
   USER_BOT_TOKEN: "8647866483:AAEUNDslugg_NxxNB1MnZMywUa62Td-pQWQ",   // Agar foydalanuvchi boti alohida bo'lsa
 };
 // ----------------------------------------------
